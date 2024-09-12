@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ZZALAAA
-- 👀 I’m interested in programming and music
-- 🌱 I’m currently learning 
+- 👀 I’m interested in programming and music;
+- 🌱 I’m currently learning on the 4 class of the Majorana Informatica/Telecomunicazioni;
 - 📫 How to reach me lollos2007@libero.it
-- 😄 Pronouns: OK ZZALAAA
+- 😄 Pronouns: OK ZZALAAA;
 - ⚡ Fun fact: i like listen music, go to the GYM and programming.
 
 <!---
